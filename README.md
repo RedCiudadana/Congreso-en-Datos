@@ -1,2 +1,0 @@
-# MiGuatemala.org
-Hello World
