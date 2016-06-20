@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "nombre": "Felipe Alejos Lorenzana",
+            "foto-funcionario": "https://raw.githubusercontent.com/RedCiudadana/Congreso-en-Datos/gh-pages/Legislaturas/Octava%20Legislatura/Diputados/Imagenes/1%20-%20Felipe%20Alejos%20Lorenzana.png",
+            "profesion": null,
+            "educacion": null,
+            "fecha-nacimiento": "03-10-1984",
+            "lugar-nacimiento": null,
+            "cargo": {
+                  "nombre-completo": "Diputado",
+                  "nombre-corto": "Listado Nacional"
+            },
+            "institucion": {
+                  "codigo": "congreso",
+                  "nombre-completo": "Congreso de Guatemala",
+                  "nombre-corto": "Legislativo"
+            },
+            "distrito": "Listado Nacional",
+            "comision": "Energía y Minas",
+            "asistencia": "92%",
+            "partido-postulante": "TODOS",
+            "partido-actual": "TODOS",
+            "biografia": null,
+            "foto-partido-actual": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Todos_Logo.svg/160px-Todos_Logo.svg.png",
+            "foto-institucion": null,
+            "email-institucion": null,
+            "telefono-institucion": null,
+            "direccion-institucion": null,
+            "web-institucion": null,
+            "fb-institucion": null,
+            "tw-institucion": null,
+            "email-funcionario": "jherrera@redciudadana.org.gt",
+            "telefono": "40112926",
+            "direccion": "9ave, 8-42 zona 1, Edificio Calle 8",
+            "web": null,
+            "fb": null,
+            "tw": null,
+            "tag1": null,
+            "tag2": null
+        },
+        {
+            "nombre": "Neftaly Aldana Herrera",
+            "foto-funcionario": "http://www.miguatemala.org/images/magistrados/CSJ/NeftalyAldanaHerrera.jpg",
+            "profesion": null,
+            "educacion": null,
+            "fecha-nacimiento": null,
+            "lugar-nacimiento": null,
+            "cargo": {
+                  "nombre-completo": "Magistrado Titular de la CSJ",
+                  "nombre-corto": "Titular"
+            },
+            "institucion": {
+                  "codigo": "csj",
+                  "nombre-completo": "Corte Suprema de Justicia - CSJ",
+                  "nombre-corto": "CSJ"
+            },
+            "partido-postulante": null,
+            "partido-actual": null,
+            "biografia": null,
+            "foto-partido": null,
+            "foto-institucion": null,
+            "email-institucion": null,
+            "telefono-institucion": null,
+            "direccion-institucion": null,
+            "web-institucion": null,
+            "fb-institucion": null,
+            "tw-institucion": null,
+            "email-funcionario": null,
+            "telefono": null,
+            "direccion": null,
+            "web": null,
+            "fb": null,
+            "tw": null,
+            "tag1": null,
+            "tag2": null
+        },
+        {
+            "nombre": "Neftaly Aldana Herrera",
+            "foto-funcionario": "http://www.miguatemala.org/images/magistrados/CSJ/NeftalyAldanaHerrera.jpg",
+            "profesion": null,
+            "educacion": null,
+            "fecha-nacimiento": null,
+            "lugar-nacimiento": null,
+            "cargo": {
+                  "nombre-completo": "Magistrado Titular de la CSJ",
+                  "nombre-corto": "Titular"
+            },
+            "institucion": {
+                  "codigo": "csj",
+                  "nombre-completo": "Corte Suprema de Justicia - CSJ",
+                  "nombre-corto": "CSJ"
+            },
+            "partido-postulante": null,
+            "partido-actual": null,
+            "biografia": null,
+            "foto-partido": null,
+            "foto-institucion": null,
+            "email-institucion": null,
+            "telefono-institucion": null,
+            "direccion-institucion": null,
+            "web-institucion": null,
+            "fb-institucion": null,
+            "tw-institucion": null,
+            "email-funcionario": null,
+            "telefono": null,
+            "direccion": null,
+            "web": null,
+            "fb": null,
+            "tw": null,
+            "tag1": null,
+            "tag2": null
+        },
+        {
+            "nombre": "María Consuelo Porras Argueta de Porras",
+            "foto-funcionario": "http://www.miguatemala.org/images/magistrados/CSJ/MariaPorrasdePorras.jpg",
+            "profesion": null,
+            "educacion": null,
+            "fecha-nacimiento": null,
+            "lugar-nacimiento": null,
+            "cargo": {
+                  "nombre-completo": "Magistrado Suplente de la CSJ",
+                  "nombre-corto": "Suplente"
+            },
+            "institucion": {
+                  "codigo": "csj",
+                  "nombre-completo": "Corte Suprema de Justicia - CSJ",
+                  "nombre-corto": "CSJ"
+            },
+            "partido-postulante": null,
+            "partido-actual": null,
+            "biografia": null,
+            "foto-partido": null,
+            "foto-institucion": null,
+            "email-institucion": null,
+            "telefono-institucion": null,
+            "direccion-institucion": null,
+            "web-institucion": null,
+            "fb-institucion": null,
+            "tw-institucion": null,
+            "email-funcionario": null,
+            "telefono": null,
+            "direccion": null,
+            "web": null,
+            "fb": null,
+            "tw": null,
+            "tag1": null,
+            "tag2": null
+        }
+    ]
+}
