@@ -1,0 +1,2682 @@
+[
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0B9E482E-D3C6-8835-8ACA-073261FFD2A5.jpg",
+        "id": "5",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0B9E482E-D3C6-8835-8ACA-073261FFD2A5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "445c5b826f6edca65b18cdc28904f006",
+                "path": "oswaldo-ivan-arevalo-barrios-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0B9E482E-D3C6-8835-8ACA-073261FFD2A5.jpg"
+            }
+        ],
+        "nombre": "Oswaldo Iv\u00e1n  Ar\u00e9valo Barrios",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "FRG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/751A8A42-8C14-EB38-62E0-07B8A002A416.jpg",
+        "id": "7",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/751A8A42-8C14-EB38-62E0-07B8A002A416.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "08cce9807967ca254493c4d1386842be",
+                "path": "ronald-estuardo-arango-ordonez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/751A8A42-8C14-EB38-62E0-07B8A002A416.jpg"
+            }
+        ],
+        "nombre": "Ronald Estuardo Arango Ord\u00f3\u00f1ez",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A73BA067-CE52-26C7-4A26-0769180C2145.jpg",
+        "id": "4",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A73BA067-CE52-26C7-4A26-0769180C2145.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "16b686023ce38105dbc0ba757231076c",
+                "path": "luis-pedro-alvarez-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A73BA067-CE52-26C7-4A26-0769180C2145.jpg"
+            }
+        ],
+        "nombre": "Luis Pedro  \u00c1lvarez Morales",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E8750845-62FA-256C-7B96-55ABD2267634.png",
+        "id": "1",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E8750845-62FA-256C-7B96-55ABD2267634.png"
+        ],
+        "images": [
+            {
+                "checksum": "4d0742449904d8789f1e498c7424c2b9",
+                "path": "felipe-alejos-lorenzana-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E8750845-62FA-256C-7B96-55ABD2267634.png"
+            }
+        ],
+        "nombre": "Felipe Alejos Lorenzana",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/29E2BDE4-9BE1-1F24-22C8-79800FE73DD9.jpg",
+        "id": "3",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/29E2BDE4-9BE1-1F24-22C8-79800FE73DD9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "814e0782e15b5038498eeda359f91df0",
+                "path": "luis-antonio-alonzo-pernilla-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/29E2BDE4-9BE1-1F24-22C8-79800FE73DD9.jpg"
+            }
+        ],
+        "nombre": "Luis Antonio Alonzo Pernilla",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/99AF2AD2-B69C-B70E-7F97-7993EC62B5A6.jpg",
+        "id": "6",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/99AF2AD2-B69C-B70E-7F97-7993EC62B5A6.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "c2151493e521803fa593d34aaa5da91e",
+                "path": "jorge-leonel-arevalo-canales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/99AF2AD2-B69C-B70E-7F97-7993EC62B5A6.jpg"
+            }
+        ],
+        "nombre": "Jorge Leonel Ar\u00e9valo Canales",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/CA00703F-E120-1F63-25FF-074811D2FE0F.jpg",
+        "id": "12",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/CA00703F-E120-1F63-25FF-074811D2FE0F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "7d79bf4d492b16ffa59f977d78d6eb5f",
+                "path": "salvador-francisco-baldizon-mendez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/CA00703F-E120-1F63-25FF-074811D2FE0F.jpg"
+            }
+        ],
+        "nombre": "Salvador Francisco  Baldiz\u00f3n M\u00e9ndez",
+        "partidoActual": "IND",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/06D27642-7F38-17C2-224D-F781245DAFA8.jpg",
+        "id": "2",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/06D27642-7F38-17C2-224D-F781245DAFA8.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "01b0fb92b4c105399c4295fd7eac807d",
+                "path": "maria-stella-alonzo-bolanos-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/06D27642-7F38-17C2-224D-F781245DAFA8.jpg"
+            }
+        ],
+        "nombre": "Mar\u00eda Stella Alonzo Bola\u00f1os",
+        "partidoActual": "PP",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/5D7D62BE-8303-1F28-905C-0747797A8E65.jpg",
+        "id": "11",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/5D7D62BE-8303-1F28-905C-0747797A8E65.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "afaed972172ac8ad098e4240c79eba4d",
+                "path": "delia-emilda-bac-alvarado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/5D7D62BE-8303-1F28-905C-0747797A8E65.jpg"
+            }
+        ],
+        "nombre": "Delia Emilda  Bac Alvarado",
+        "partidoActual": "AC",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C298FFEB-1DF5-9357-6BBB-8DC5820B0271.jpg",
+        "id": "10",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C298FFEB-1DF5-9357-6BBB-8DC5820B0271.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "38a3225a4193228f6ef2758c09bc46e4",
+                "path": "alvaro-enrique-arzu-escobar-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C298FFEB-1DF5-9357-6BBB-8DC5820B0271.jpg"
+            }
+        ],
+        "nombre": "Alvaro Enrique Arz\u00fa Escobar",
+        "partidoActual": "PU",
+        "partidoPostulante": "PU"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C3FB6058-38D8-7A18-FC66-797FC6D77297.jpg",
+        "id": "9",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C3FB6058-38D8-7A18-FC66-797FC6D77297.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "62b03b3112f6e51957df8bccd4a7ecc0",
+                "path": "alsider-antonio-arias-rodriguez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C3FB6058-38D8-7A18-FC66-797FC6D77297.jpg"
+            }
+        ],
+        "nombre": "Alsider Antonio Arias Rodr\u00edguez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/D5FF0C6D-6FBA-7236-5D00-798B6B2CA0DA.jpg",
+        "id": "8",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/D5FF0C6D-6FBA-7236-5D00-798B6B2CA0DA.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "9b7a16726e19a09c93a15be7793919f5",
+                "path": "oscar-arturo-argueta-mayen-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/D5FF0C6D-6FBA-7236-5D00-798B6B2CA0DA.jpg"
+            }
+        ],
+        "nombre": "Oscar Arturo Argueta May\u00e9n",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/3C3AE950-CE7C-A5FF-8AD2-7980C59DE7DB.jpg",
+        "id": "22",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/3C3AE950-CE7C-A5FF-8AD2-7980C59DE7DB.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "dc5b6adf935034aadefec1b878022e7a",
+                "path": "iliana-guadalupe-calles-dominguez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/3C3AE950-CE7C-A5FF-8AD2-7980C59DE7DB.jpg"
+            }
+        ],
+        "nombre": "Iliana Guadalupe Calles Dom\u00ednguez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8B6398E0-BFFA-324F-E7BC-07B9D7886F1B.jpg",
+        "id": "13",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8B6398E0-BFFA-324F-E7BC-07B9D7886F1B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "fd11478411f0f7b5eb2a6f6a73d00a0a",
+                "path": "carlos-alberto-barreda-taracena-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8B6398E0-BFFA-324F-E7BC-07B9D7886F1B.jpg"
+            }
+        ],
+        "nombre": "Carlos Alberto  Barreda Taracena",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/7A79F1DF-3294-DE18-4E65-6AB7AFDF9791.jpg",
+        "id": "20",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/7A79F1DF-3294-DE18-4E65-6AB7AFDF9791.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "d3423a2ea1263f538d65ed20b9311d9b",
+                "path": "edgar-tomas-cordova-molina-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/7A79F1DF-3294-DE18-4E65-6AB7AFDF9791.jpg"
+            }
+        ],
+        "nombre": "Edgar Tom\u00e1s C\u00f3rdova Molina",
+        "partidoActual": "LIDER",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1905164C-2C1E-53E9-16F8-8DC2BFB90A56.jpg",
+        "id": "158",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1905164C-2C1E-53E9-16F8-8DC2BFB90A56.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "9e99064598333c30fcd4d7009d3ddae9",
+                "path": "eduardo-zachrisson-castillo-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1905164C-2C1E-53E9-16F8-8DC2BFB90A56.jpg"
+            }
+        ],
+        "nombre": "Eduardo Zachrisson Castillo",
+        "partidoActual": "PAN",
+        "partidoPostulante": "PAN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/06A12119-2132-8682-B052-7971C7A94B45.jpg",
+        "id": "144",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/06A12119-2132-8682-B052-7971C7A94B45.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "34d59a2ae75c7f11e28c803c6327d561",
+                "path": "maria-eugenia-tabush-pascual-de-sanchez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/06A12119-2132-8682-B052-7971C7A94B45.jpg"
+            }
+        ],
+        "nombre": "Mar\u00eda Eugenia Tabush Pascual de S\u00e1nchez",
+        "partidoActual": "VIVA",
+        "partidoPostulante": "VIVA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/17A2BC00-8DD7-3311-15DD-07BD8EB435A8.jpg",
+        "id": "21",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/17A2BC00-8DD7-3311-15DD-07BD8EB435A8.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "a28a0de19ad159de9229ddaa98958633",
+                "path": "felipe-jesus-cal-lem-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/17A2BC00-8DD7-3311-15DD-07BD8EB435A8.jpg"
+            }
+        ],
+        "nombre": "Felipe Jes\u00fas  Cal Lem",
+        "partidoActual": "UNE",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B5B9428B-C53C-00C0-E528-B1720B51A328.jpg",
+        "id": "156",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B5B9428B-C53C-00C0-E528-B1720B51A328.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "2d42c1c5d7f8e25d05a3a78927f05688",
+                "path": "roberto-ricardo-villate-villatoro-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B5B9428B-C53C-00C0-E528-B1720B51A328.jpg"
+            }
+        ],
+        "nombre": "Roberto Ricardo  Villate Villatoro",
+        "partidoActual": "LIDER",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/32BD9F7F-7317-11F5-5369-7970525549D6.jpg",
+        "id": "155",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/32BD9F7F-7317-11F5-5369-7970525549D6.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "814b542cbb162a43f349396f6180c0a5",
+                "path": "mario-velasquez-perez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/32BD9F7F-7317-11F5-5369-7970525549D6.jpg"
+            }
+        ],
+        "nombre": "Mario Vel\u00e1squez P\u00e9rez",
+        "partidoActual": "CREO",
+        "partidoPostulante": "CREO"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0C28358B-09B6-5CAC-A82C-7999271ADA27.jpg",
+        "id": "157",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0C28358B-09B6-5CAC-A82C-7999271ADA27.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8775f18c0b115e7e3a9ba5ced49a9dd2",
+                "path": "marcos-fernando-yax-guinea-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0C28358B-09B6-5CAC-A82C-7999271ADA27.jpg"
+            }
+        ],
+        "nombre": "Marcos Fernando Yax Guinea",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0AEAF229-B152-262F-0269-E348B20C6A8B.jpg",
+        "id": "153",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0AEAF229-B152-262F-0269-E348B20C6A8B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "0cd52da92c1c90ed0ed0a2f4f7a2d5ea",
+                "path": "alvaro-adolfo-velasquez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0AEAF229-B152-262F-0269-E348B20C6A8B.jpg"
+            }
+        ],
+        "nombre": "\u00c1lvaro Adolfo Vel\u00e1squez",
+        "partidoActual": "Convergencia",
+        "partidoPostulante": "Convergencia"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A598301A-5DD2-2751-29D3-798A939B83E7.jpg",
+        "id": "151",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A598301A-5DD2-2751-29D3-798A939B83E7.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "e41bba87a9eed3820641969370dcb694",
+                "path": "jose-rodrigo-valladares-guillen-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A598301A-5DD2-2751-29D3-798A939B83E7.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Rodrigo Valladares Guill\u00e9n",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C7B64B61-6880-DD16-45AB-8DC859B38FFD.jpg",
+        "id": "154",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C7B64B61-6880-DD16-45AB-8DC859B38FFD.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "ee52f282083de29d29aef2055f9996f6",
+                "path": "german-estuardo-velasquez-perez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C7B64B61-6880-DD16-45AB-8DC859B38FFD.jpg"
+            }
+        ],
+        "nombre": "German Estuardo Vel\u00e1squez P\u00e9rez",
+        "partidoActual": "PP",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E101F0B0-2570-B68A-C43F-798A1474D3C7.jpg",
+        "id": "150",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E101F0B0-2570-B68A-C43F-798A1474D3C7.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "43ce59cf040946fc7b9051d82e50b25a",
+                "path": "jose-armando-ubico-aguilar-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E101F0B0-2570-B68A-C43F-798A1474D3C7.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Armando Ubico Aguilar",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B4CAFB81-B777-C8C1-A04E-E2780F2D3864.jpg",
+        "id": "149",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B4CAFB81-B777-C8C1-A04E-E2780F2D3864.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "095efbd22460e0f3dc5f80b651676379",
+                "path": "jose-domingo-trejo-de-la-roca-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B4CAFB81-B777-C8C1-A04E-E2780F2D3864.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Domingo Trejo de la Roca",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/16266B42-E8FB-522A-5E7A-356C3FD0D71E.jpg",
+        "id": "148",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/16266B42-E8FB-522A-5E7A-356C3FD0D71E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8c6de352e45eee6500ad6eb845479612",
+                "path": "julian-tesucun-tesucun-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/16266B42-E8FB-522A-5E7A-356C3FD0D71E.jpg"
+            }
+        ],
+        "nombre": "Juli\u00e1n Tesuc\u00fan Tesuc\u00fan",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/343E023B-EEA0-266B-1CD9-8DCF65439E3B.jpg",
+        "id": "147",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/343E023B-EEA0-266B-1CD9-8DCF65439E3B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "3f1720a014789fd792664aa8eed0fbb1",
+                "path": "dorian-delfino-taracena-godinez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/343E023B-EEA0-266B-1CD9-8DCF65439E3B.jpg"
+            }
+        ],
+        "nombre": "Dorian Delfino Taracena God\u00ednez",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/36F45E06-C38E-A53B-1E8D-7992B7A29AD7.jpg",
+        "id": "152",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/36F45E06-C38E-A53B-1E8D-7992B7A29AD7.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "426adbfd6d38bc8a16acca297ac96f5b",
+                "path": "jorge-estuardo-vargas-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/36F45E06-C38E-A53B-1E8D-7992B7A29AD7.jpg"
+            }
+        ],
+        "nombre": "Jorge Estuardo Vargas Morales",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/3D9EEC72-7621-052E-807F-D2F4632F78C7.png",
+        "id": "146",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/3D9EEC72-7621-052E-807F-D2F4632F78C7.png"
+        ],
+        "images": [
+            {
+                "checksum": "58d7378e99df659426b58b7488d02ca4",
+                "path": "mario-taracena-diaz-sol-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/3D9EEC72-7621-052E-807F-D2F4632F78C7.png"
+            }
+        ],
+        "nombre": "Mario  Taracena D\u00edaz-Sol",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/22D26937-6A69-6E5A-FEC4-E2758F54E709.jpg",
+        "id": "143",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/22D26937-6A69-6E5A-FEC4-E2758F54E709.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4e036728ea8cdbc5db2ca75d1cfe726d",
+                "path": "ronald-ramiro-sierra-lopez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/22D26937-6A69-6E5A-FEC4-E2758F54E709.jpg"
+            }
+        ],
+        "nombre": "Ronald Ramiro  Sierra L\u00f3pez",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "FRG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/BDD58651-BB98-BACC-F7A8-798353BB1825.jpg",
+        "id": "142",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/BDD58651-BB98-BACC-F7A8-798353BB1825.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "41ceac88595eada13480e78af7d2766c",
+                "path": "edgar-armando-sandoval-trigueros-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/BDD58651-BB98-BACC-F7A8-798353BB1825.jpg"
+            }
+        ],
+        "nombre": "\u00c9dgar Armando Sandoval Trigueros",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg",
+        "id": "139",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg"
+        ],
+        "images": [],
+        "nombre": "Lucrecia Carola Samayoa Reyes",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/D5ED247E-A8BF-9745-78E2-7991CEE838F5.jpg",
+        "id": "140",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/D5ED247E-A8BF-9745-78E2-7991CEE838F5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4b1f5001b56668c43d63d99ff3d472cc",
+                "path": "luis-fernando-sanchinel-palma-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/D5ED247E-A8BF-9745-78E2-7991CEE838F5.jpg"
+            }
+        ],
+        "nombre": "Luis Fernando Sanchinel Palma",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A26F67FA-FF34-E75F-6261-072DF9AC3249.jpg",
+        "id": "138",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A26F67FA-FF34-E75F-6261-072DF9AC3249.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "90ad85783e7a84da4f86725c6d3aa3dc",
+                "path": "nery-orlando-samayoa-barrios-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A26F67FA-FF34-E75F-6261-072DF9AC3249.jpg"
+            }
+        ],
+        "nombre": "Nery Orlando  Samayoa Barrios",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/ADDE9FBD-A5F6-CCFA-0103-796535BDCBAE.jpg",
+        "id": "136",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/ADDE9FBD-A5F6-CCFA-0103-796535BDCBAE.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4bd8383b77b9a5d82b6137e46a1a457e",
+                "path": "raul-romero-segura-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/ADDE9FBD-A5F6-CCFA-0103-796535BDCBAE.jpg"
+            }
+        ],
+        "nombre": "Ra\u00fal Romero Segura",
+        "partidoActual": "Fuerza",
+        "partidoPostulante": "Fuerza"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/30FF7D84-877B-FA4B-06C9-797170A8D7BF.jpg",
+        "id": "135",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/30FF7D84-877B-FA4B-06C9-797170A8D7BF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "6758b9818212664c977a5ed4025f0da2",
+                "path": "anibal-estuardo-rojas-espino-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/30FF7D84-877B-FA4B-06C9-797170A8D7BF.jpg"
+            }
+        ],
+        "nombre": "An\u00edbal Estuardo Rojas Espino",
+        "partidoActual": "VIVA",
+        "partidoPostulante": "VIVA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/34FC1CD4-0A3F-A5F0-3E6F-79925306CA2C.jpg",
+        "id": "137",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/34FC1CD4-0A3F-A5F0-3E6F-79925306CA2C.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4709cbb64c1237fd327397a09f82c904",
+                "path": "juan-carlos-josue-salanic-garcia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/34FC1CD4-0A3F-A5F0-3E6F-79925306CA2C.jpg"
+            }
+        ],
+        "nombre": "Juan Carlos Josue Salanic Garc\u00eda",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A997943F-15A5-C91C-B0CB-44B1F6FD3AE0.jpg",
+        "id": "145",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A997943F-15A5-C91C-B0CB-44B1F6FD3AE0.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "026a0a29eeeff7980de2309b08a5573a",
+                "path": "francisco-tambriz-y-tambriz-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A997943F-15A5-C91C-B0CB-44B1F6FD3AE0.jpg"
+            }
+        ],
+        "nombre": "Francisco Tambr\u00edz y Tambr\u00edz",
+        "partidoActual": "AC",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B87F0CCA-39F8-2C7F-6B2B-799123B77943.jpg",
+        "id": "131",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B87F0CCA-39F8-2C7F-6B2B-799123B77943.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "c99b7f40bc548afe54c6270660760023",
+                "path": "edgar-raul-reyes-lee-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B87F0CCA-39F8-2C7F-6B2B-799123B77943.jpg"
+            }
+        ],
+        "nombre": "Edgar Ra\u00fal Reyes Lee",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/CE6DE85B-39EF-4723-8DB3-797A6C394E09.jpg",
+        "id": "134",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/CE6DE85B-39EF-4723-8DB3-797A6C394E09.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "424c8844b3b4afb843918aaabc6323db",
+                "path": "carlos-napoleon-rojas-alarcon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/CE6DE85B-39EF-4723-8DB3-797A6C394E09.jpg"
+            }
+        ],
+        "nombre": "Carlos Napol\u00e9on Rojas Alarc\u00f3n",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/DC9B5DB0-B497-E8A7-F39F-2E6BE60F1044.jpg",
+        "id": "141",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/DC9B5DB0-B497-E8A7-F39F-2E6BE60F1044.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "e1501b7a709c766fc4ae2cfb4ca5d5d8",
+                "path": "sandra-patricia-sandoval-gonzalez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/DC9B5DB0-B497-E8A7-F39F-2E6BE60F1044.jpg"
+            }
+        ],
+        "nombre": "Sandra Patricia Sandoval Gonz\u00e1lez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A85CB0D3-70D1-39EF-BF3B-B296466A0B14.jpg",
+        "id": "129",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A85CB0D3-70D1-39EF-BF3B-B296466A0B14.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "94385eed64f97689b59d7ac77ca6ed17",
+                "path": "thelma-elizabeth-ramirez-retana-de-najera-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A85CB0D3-70D1-39EF-BF3B-B296466A0B14.jpg"
+            }
+        ],
+        "nombre": "Thelma Elizabeth  Ram\u00edrez Retana de N\u00e1jera",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C75CDB65-FF10-2EDA-DA81-074640B6C108.jpg",
+        "id": "126",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C75CDB65-FF10-2EDA-DA81-074640B6C108.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4e4f803f8653e73ab77af6bf12c484e2",
+                "path": "oscar-armando-quintanilla-villegas-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C75CDB65-FF10-2EDA-DA81-074640B6C108.jpg"
+            }
+        ],
+        "nombre": "Oscar Armando Quintanilla Villegas",
+        "partidoActual": "AC",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/945062C1-7FFE-E8F8-E5F9-79957B68B688.jpg",
+        "id": "130",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/945062C1-7FFE-E8F8-E5F9-79957B68B688.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5cc16d57659d20cadc85d4486dc0342a",
+                "path": "jaime-jose-regalado-oliva-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/945062C1-7FFE-E8F8-E5F9-79957B68B688.jpg"
+            }
+        ],
+        "nombre": "Jaime Jos\u00e9 Regalado Oliva",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/D44BC2C6-BFA9-EB85-5781-07D6FB4C9CC5.jpg",
+        "id": "132",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/D44BC2C6-BFA9-EB85-5781-07D6FB4C9CC5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "df20db0dae06397e34d37f003c0763c7",
+                "path": "fidel-reyes-lee-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/D44BC2C6-BFA9-EB85-5781-07D6FB4C9CC5.jpg"
+            }
+        ],
+        "nombre": "Fidel  Reyes Lee",
+        "partidoActual": "UNE",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0CB6CBB0-5C2B-BA0C-CDD2-7989B03D205C.jpg",
+        "id": "127",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0CB6CBB0-5C2B-BA0C-CDD2-7989B03D205C.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "9efd367fb40833def1865f1dceb04feb",
+                "path": "maria-cristina-quinto-garcia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0CB6CBB0-5C2B-BA0C-CDD2-7989B03D205C.jpg"
+            }
+        ],
+        "nombre": "Mar\u00eda Cristina Quinto Garc\u00eda",
+        "partidoActual": "FCN",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/DEF2E011-2BFA-520C-3575-074220126ED6.jpg",
+        "id": "125",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/DEF2E011-2BFA-520C-3575-074220126ED6.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "251a79acfb7ee6e1a6a33d1fbe0bfadd",
+                "path": "haroldo-eric-quej-chen-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/DEF2E011-2BFA-520C-3575-074220126ED6.jpg"
+            }
+        ],
+        "nombre": "Haroldo Eric Quej Chen",
+        "partidoActual": "UNE",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/693A024E-7E19-012B-784D-07D26EC8B4A2.jpg",
+        "id": "128",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/693A024E-7E19-012B-784D-07D26EC8B4A2.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f719c428ab2dbe249126474f54663237",
+                "path": "luis-armando-rabbe-tejada-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/693A024E-7E19-012B-784D-07D26EC8B4A2.jpg"
+            }
+        ],
+        "nombre": "Luis Armando Rabb\u00e9 Tejada",
+        "partidoActual": "AC",
+        "partidoPostulante": "IND"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/363882B0-3A83-CC66-813A-799D21041DB1.jpg",
+        "id": "123",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/363882B0-3A83-CC66-813A-799D21041DB1.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f49690649beececeef8dfe18b747570e",
+                "path": "daniel-bernabe-portillo-calderon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/363882B0-3A83-CC66-813A-799D21041DB1.jpg"
+            }
+        ],
+        "nombre": "Daniel Bernab\u00e9 Portillo Calder\u00f3n",
+        "partidoActual": "AC",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/F6E72DDB-D3D7-2187-030F-8DCD3C4921E5.jpg",
+        "id": "124",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/F6E72DDB-D3D7-2187-030F-8DCD3C4921E5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "dc4921494fa3cd1cd57c90d71bead720",
+                "path": "vivian-beatriz-preciado-navarijo-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/F6E72DDB-D3D7-2187-030F-8DCD3C4921E5.jpg"
+            }
+        ],
+        "nombre": "Vivian Beatriz Preciado Navarijo",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/83D7BC4D-B07D-A69F-71C5-07CF5687F714.jpg",
+        "id": "133",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/83D7BC4D-B07D-A69F-71C5-07CF5687F714.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "bcc630724130479a931e3103fce1ad07",
+                "path": "augusto-cesar-sandino-reyes-rosales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/83D7BC4D-B07D-A69F-71C5-07CF5687F714.jpg"
+            }
+        ],
+        "nombre": "Augusto C\u00e9sar Sandino Reyes Rosales",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/FC997DD2-993E-8FF5-9C5F-92DA8022DC8D.jpg",
+        "id": "121",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/FC997DD2-993E-8FF5-9C5F-92DA8022DC8D.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "0a659b27285b95d99604777ac22e0b92",
+                "path": "amilcar-de-jesus-pop-ac-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/FC997DD2-993E-8FF5-9C5F-92DA8022DC8D.jpg"
+            }
+        ],
+        "nombre": "Am\u00edlcar de Jes\u00fas Pop Ac",
+        "partidoActual": "WINAQ",
+        "partidoPostulante": "WINAQ"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/F9718F7D-5528-40B3-0128-07D816C357EB.jpg",
+        "id": "122",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/F9718F7D-5528-40B3-0128-07D816C357EB.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "708acece4826dc1367be918122bccf5e",
+                "path": "juan-jose-porras-castillo-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/F9718F7D-5528-40B3-0128-07D816C357EB.jpg"
+            }
+        ],
+        "nombre": "Juan Jos\u00e9 Porras Castillo",
+        "partidoActual": "VIVA",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/699B7814-4254-FE46-70C7-7982F7B17539.jpg",
+        "id": "118",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/699B7814-4254-FE46-70C7-7982F7B17539.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5e95850bf648ab923c7a127cb22199d7",
+                "path": "edgar-justino-ovalle-maldonado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/699B7814-4254-FE46-70C7-7982F7B17539.jpg"
+            }
+        ],
+        "nombre": "\u00c9dgar Justino Ovalle Maldonado",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A1AFDB8D-3869-D8D8-AD2D-B175D078BBF5.jpg",
+        "id": "119",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A1AFDB8D-3869-D8D8-AD2D-B175D078BBF5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "84ffbb3eeaadb0848971485d7731fc6f",
+                "path": "rudy-berner-pereira-delgado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A1AFDB8D-3869-D8D8-AD2D-B175D078BBF5.jpg"
+            }
+        ],
+        "nombre": "Rudy Berner  Pereira Delgado",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/562E1E4A-5A6D-2142-3437-074183E35424.jpg",
+        "id": "116",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/562E1E4A-5A6D-2142-3437-074183E35424.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f23c024d5da806a88544076d062dafde",
+                "path": "marvin-orellana-lopez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/562E1E4A-5A6D-2142-3437-074183E35424.jpg"
+            }
+        ],
+        "nombre": "Marvin  Orellana L\u00f3pez",
+        "partidoActual": "AC",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1F656F9B-0C6A-29A4-5E75-E2841741E533.jpg",
+        "id": "115",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1F656F9B-0C6A-29A4-5E75-E2841741E533.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "e5d0130e53f625ac0f8bbd8a43eb323a",
+                "path": "carlos-santiago-najera-sagastume-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1F656F9B-0C6A-29A4-5E75-E2841741E533.jpg"
+            }
+        ],
+        "nombre": "Carlos Santiago  N\u00e1jera Sagastume",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/CCDB7090-C21B-37E4-4EE6-07D91B1D2264.jpg",
+        "id": "120",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/CCDB7090-C21B-37E4-4EE6-07D91B1D2264.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "0139533b9ac2aa6b7332165e7aa6cdb6",
+                "path": "marco-aurelio-pineda-castellanos-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/CCDB7090-C21B-37E4-4EE6-07D91B1D2264.jpg"
+            }
+        ],
+        "nombre": "Marco Aurelio Pineda Castellanos",
+        "partidoActual": "FCN",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/507B2031-5834-BCCE-DA46-6AB075C13816.jpg",
+        "id": "114",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/507B2031-5834-BCCE-DA46-6AB075C13816.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "79419a4f2d56b584f06de1e509d66948",
+                "path": "sandra-nineth-moran-reyes-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/507B2031-5834-BCCE-DA46-6AB075C13816.jpg"
+            }
+        ],
+        "nombre": "Sandra Nineth Mor\u00e1n Reyes",
+        "partidoActual": "Convergencia",
+        "partidoPostulante": "Convergencia"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9AA67E5D-D301-EF47-30CC-07DAF7E06770.jpg",
+        "id": "113",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9AA67E5D-D301-EF47-30CC-07DAF7E06770.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "b5c27246241be378920abdbc9f9c69cd",
+                "path": "hernan-moran-mejia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9AA67E5D-D301-EF47-30CC-07DAF7E06770.jpg"
+            }
+        ],
+        "nombre": "Hern\u00e1n Mor\u00e1n Mej\u00eda",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/98102BD6-1541-BEA8-537D-07DA75ED788A.jpg",
+        "id": "117",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/98102BD6-1541-BEA8-537D-07DA75ED788A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f2f084cafe98856c4e40bc0eb6f976ab",
+                "path": "marco-antonio-orozco-arriola-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/98102BD6-1541-BEA8-537D-07DA75ED788A.jpg"
+            }
+        ],
+        "nombre": "Marco Antonio Orozco Arriola",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8BA779EF-0AFC-F69B-77C8-797BDCC390CF.jpg",
+        "id": "110",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8BA779EF-0AFC-F69B-77C8-797BDCC390CF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "371d240fe29076251684ab50540cb32d",
+                "path": "luis-fernando-montenegro-flores-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8BA779EF-0AFC-F69B-77C8-797BDCC390CF.jpg"
+            }
+        ],
+        "nombre": "Luis Fernando Montenegro Flores",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A4639C31-9331-3808-A156-072EF2D35E55.jpg",
+        "id": "109",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A4639C31-9331-3808-A156-072EF2D35E55.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "306536fdcf250625cdd32a5505a023bc",
+                "path": "nineth-varenca-montenegro-cottom-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A4639C31-9331-3808-A156-072EF2D35E55.jpg"
+            }
+        ],
+        "nombre": "Nineth Varenca  Montenegro Cottom",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/374870DA-4BF4-35A1-87E3-7998C2C531A9.jpg",
+        "id": "111",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/374870DA-4BF4-35A1-87E3-7998C2C531A9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "6fe5ac30236ddcb8782544344da31cb0",
+                "path": "edgar-eduardo-montepeque-gonzalez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/374870DA-4BF4-35A1-87E3-7998C2C531A9.jpg"
+            }
+        ],
+        "nombre": "Edgar Eduardo Montep\u00e9que Gonz\u00e1lez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8A9D5504-1C7F-9041-D9B4-073E22D9FF94.jpg",
+        "id": "107",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8A9D5504-1C7F-9041-D9B4-073E22D9FF94.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "1de8d246b698b9d790a15904adbc3a78",
+                "path": "gustavo-arnoldo-medrano-osorio-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8A9D5504-1C7F-9041-D9B4-073E22D9FF94.jpg"
+            }
+        ],
+        "nombre": "Gustavo Arnoldo  Medrano Osorio",
+        "partidoActual": "LIDER",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/AC71094C-19EB-9E7D-BFE9-7998281404CE.jpg",
+        "id": "108",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/AC71094C-19EB-9E7D-BFE9-7998281404CE.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "446f10ad55e0b7b48df704c00c7b1b72",
+                "path": "eva-nicolle-monte-back-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/AC71094C-19EB-9E7D-BFE9-7998281404CE.jpg"
+            }
+        ],
+        "nombre": "Eva Nicolle Monte Back",
+        "partidoActual": "AC",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/FE91778C-B94A-4627-C502-79903853DE66.jpg",
+        "id": "106",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/FE91778C-B94A-4627-C502-79903853DE66.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "bbe4ab97116cc6ef401d17532fd4af2e",
+                "path": "marleni-lineth-matias-santiago-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/FE91778C-B94A-4627-C502-79903853DE66.jpg"
+            }
+        ],
+        "nombre": "Marleni Lineth Mat\u00edas Santiago",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/15AEF56D-B210-6524-C8CF-6C082A56D123.jpg",
+        "id": "112",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/15AEF56D-B210-6524-C8CF-6C082A56D123.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "89df981cfe048b9441789e5bdd724d3d",
+                "path": "felix-ovidio-monzon-pedroza-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/15AEF56D-B210-6524-C8CF-6C082A56D123.jpg"
+            }
+        ],
+        "nombre": "F\u00e9lix Ovidio  Monz\u00f3n Pedroza.",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1EA635B3-991E-BE7E-9315-9D18F6364170.jpg",
+        "id": "105",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1EA635B3-991E-BE7E-9315-9D18F6364170.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "57d250e25de08844de05cdea5eaf4cf5",
+                "path": "joel-ruben-martinez-herrera-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1EA635B3-991E-BE7E-9315-9D18F6364170.jpg"
+            }
+        ],
+        "nombre": "Joel Rub\u00e9n Mart\u00ednez Herrera",
+        "partidoActual": "FCN",
+        "partidoPostulante": "PAN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/62027C14-1AC8-AC65-82E6-798737086ED0.jpg",
+        "id": "103",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/62027C14-1AC8-AC65-82E6-798737086ED0.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "aa3957cdd46f1ff3ead394843706b8cd",
+                "path": "jose-arturo-martinez-dell-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/62027C14-1AC8-AC65-82E6-798737086ED0.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Arturo Mart\u00ednez Dell",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/21560A14-8052-A5E0-9635-6AB90D8B80E9.jpg",
+        "id": "101",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/21560A14-8052-A5E0-9635-6AB90D8B80E9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8a522499b9c448b68a3ae59777d887cb",
+                "path": "ervin-adim-maldonado-molina-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/21560A14-8052-A5E0-9635-6AB90D8B80E9.jpg"
+            }
+        ],
+        "nombre": "Ervin Adim Maldonado Molina",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/DF1F2E16-827B-2335-35B6-799BDC5537E5.jpg",
+        "id": "104",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/DF1F2E16-827B-2335-35B6-799BDC5537E5.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "97d877939c9869225b994d5a6b694b37",
+                "path": "karla-andrea-martinez-hernandez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/DF1F2E16-827B-2335-35B6-799BDC5537E5.jpg"
+            }
+        ],
+        "nombre": "Karla Andrea Mart\u00ednez Hern\u00e1ndez",
+        "partidoActual": "AC",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/3099FBB8-3FD5-6CC6-A168-798F8AA4FE65.jpg",
+        "id": "100",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/3099FBB8-3FD5-6CC6-A168-798F8AA4FE65.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "c351f68e7a405627570a7e085b54cfd4",
+                "path": "edwin-noe-maldonado-lux-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/3099FBB8-3FD5-6CC6-A168-798F8AA4FE65.jpg"
+            }
+        ],
+        "nombre": "Edwin No\u00e9 Maldonado Lux",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E9CAB1A9-C488-2F92-4571-7988F61D168A.jpg",
+        "id": "98",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E9CAB1A9-C488-2F92-4571-7988F61D168A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f43b271b9cf0b9de2e13b8f6c769ada3",
+                "path": "pedro-mendez-carreto-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E9CAB1A9-C488-2F92-4571-7988F61D168A.jpg"
+            }
+        ],
+        "nombre": "Pedro M\u00e9ndez Carreto",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/988BA75F-F294-E5AE-1C6D-797997CAA293.jpg",
+        "id": "97",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/988BA75F-F294-E5AE-1C6D-797997CAA293.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "259605deab73c7752fecb7bd550e304e",
+                "path": "jaime-octavio-augusto-lucero-vasquez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/988BA75F-F294-E5AE-1C6D-797997CAA293.jpg"
+            }
+        ],
+        "nombre": "Jaime Octavio Augusto Lucero V\u00e1squez",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E6A193C5-3E2E-D070-DA8D-07D1BFF9598A.jpg",
+        "id": "102",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E6A193C5-3E2E-D070-DA8D-07D1BFF9598A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "374c1f51f7354cdb1be0897eabec5f8b",
+                "path": "carlos-alberto-martinez-castellanos-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E6A193C5-3E2E-D070-DA8D-07D1BFF9598A.jpg"
+            }
+        ],
+        "nombre": "Carlos Alberto Mart\u00ednez Castellanos",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/3BC1B0E9-2C40-0370-D6E0-799C75B3B5E6.jpg",
+        "id": "99",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/3BC1B0E9-2C40-0370-D6E0-799C75B3B5E6.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "7f0c5e2b7b522cdee28dfba50c9d0c1d",
+                "path": "mike-ottoniel-merida-reyes-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/3BC1B0E9-2C40-0370-D6E0-799C75B3B5E6.jpg"
+            }
+        ],
+        "nombre": "Mike Ottoniel M\u00e9rida Reyes",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9FCD71E6-55AB-C813-314D-07D8463973B9.jpg",
+        "id": "96",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9FCD71E6-55AB-C813-314D-07D8463973B9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "acece48fe1f62d96e663693ac5f8de2a",
+                "path": "julio-cesar-longo-maldonado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9FCD71E6-55AB-C813-314D-07D8463973B9.jpg"
+            }
+        ],
+        "nombre": "Julio C\u00e9sar Longo Maldonado",
+        "partidoActual": "FCN",
+        "partidoPostulante": "GANA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0F5EEF95-6E8B-F9F0-2D61-796BC45F31D4.jpg",
+        "id": "94",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0F5EEF95-6E8B-F9F0-2D61-796BC45F31D4.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f698df073d0d4e20b6182cd537c80aa3",
+                "path": "fernando-linares-beltranena-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0F5EEF95-6E8B-F9F0-2D61-796BC45F31D4.jpg"
+            }
+        ],
+        "nombre": "Fernando Linares Beltranena",
+        "partidoActual": "PAN",
+        "partidoPostulante": "PAN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/043F4BAB-AB41-41CB-F424-63E23BFF6FAC.jpg",
+        "id": "93",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/043F4BAB-AB41-41CB-F424-63E23BFF6FAC.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "046062cc5a797d1ffc1c553c3601fe08",
+                "path": "marco-antonio-lemus-salguero-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/043F4BAB-AB41-41CB-F424-63E23BFF6FAC.jpg"
+            }
+        ],
+        "nombre": "Marco Antonio  Lemus Salguero",
+        "partidoActual": "UNE",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/65C9E6C6-010D-4BE9-AD55-07D2E340B47B.jpg",
+        "id": "95",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/65C9E6C6-010D-4BE9-AD55-07D2E340B47B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "760fe3ac466dab630209e467ca06a9d3",
+                "path": "hector-leonel-lira-montenegro-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/65C9E6C6-010D-4BE9-AD55-07D2E340B47B.jpg"
+            }
+        ],
+        "nombre": "H\u00e9ctor Leonel Lira Montenegro",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/5A6D8854-F113-6F7B-1ED4-6AEFD561E551.jpg",
+        "id": "90",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/5A6D8854-F113-6F7B-1ED4-6AEFD561E551.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "d62456cc19fb93c2227981127fa640a7",
+                "path": "julio-francisco-lainfiesta-rimola-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/5A6D8854-F113-6F7B-1ED4-6AEFD561E551.jpg"
+            }
+        ],
+        "nombre": "Julio Francisco Lainfiesta R\u00edmola",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8BF2C874-7A3A-73AD-8654-798EBD509CFF.jpg",
+        "id": "91",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8BF2C874-7A3A-73AD-8654-798EBD509CFF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "e34d34cc944ff554dee07ffdf5e5c0e8",
+                "path": "francisco-vitelio-lam-ruano-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8BF2C874-7A3A-73AD-8654-798EBD509CFF.jpg"
+            }
+        ],
+        "nombre": "Francisco Vitelio Lam Ruano",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/7D3ED27D-A210-30D6-C0AB-7986D347294F.jpg",
+        "id": "92",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/7D3ED27D-A210-30D6-C0AB-7986D347294F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "856624d994cc25fa3d0da58698821efc",
+                "path": "juan-ramon-lau-quan-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/7D3ED27D-A210-30D6-C0AB-7986D347294F.jpg"
+            }
+        ],
+        "nombre": "Juan Ram\u00f3n Lau Quan",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0F4FC210-3B9E-5C1E-427D-797629EB9212.jpg",
+        "id": "89",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0F4FC210-3B9E-5C1E-427D-797629EB9212.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "018cf8ce138f1d9bd1792c8dd1a20766",
+                "path": "erick-rene-lainfiesta-caceres-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0F4FC210-3B9E-5C1E-427D-797629EB9212.jpg"
+            }
+        ],
+        "nombre": "Erick Ren\u00e9 Lainfiesta C\u00e1ceres",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9B6764E3-4EF7-0A21-BE45-8DE6DE85F5EC.jpg",
+        "id": "88",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9B6764E3-4EF7-0A21-BE45-8DE6DE85F5EC.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "82e3de6accd0360c9728b5fdfc60d972",
+                "path": "carlos-enrique-lopez-maldonado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9B6764E3-4EF7-0A21-BE45-8DE6DE85F5EC.jpg"
+            }
+        ],
+        "nombre": "Carlos Enrique L\u00f3pez Maldonado",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/19DE3B4C-268E-4E2E-F609-072FE0D9CDDF.jpg",
+        "id": "87",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/19DE3B4C-268E-4E2E-F609-072FE0D9CDDF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f6c3016b28eb874922bdab547a409c22",
+                "path": "carlos-enrique-lopez-giron-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/19DE3B4C-268E-4E2E-F609-072FE0D9CDDF.jpg"
+            }
+        ],
+        "nombre": "Carlos Enrique  L\u00f3pez Gir\u00f3n",
+        "partidoActual": "UNE",
+        "partidoPostulante": "FRG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/2F6B6B3B-DAF9-33AA-4713-074C074B9347.jpg",
+        "id": "86",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/2F6B6B3B-DAF9-33AA-4713-074C074B9347.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "9f55e94dec98846b85f6060e04e6ea25",
+                "path": "roberto-kestler-velasquez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/2F6B6B3B-DAF9-33AA-4713-074C074B9347.jpg"
+            }
+        ],
+        "nombre": "Roberto  Kestler Vel\u00e1squez",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/37CAC7FB-92FA-441E-37F0-79978D627278.jpg",
+        "id": "84",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/37CAC7FB-92FA-441E-37F0-79978D627278.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "ba216172f56758369a8a6bb9835f02cd",
+                "path": "julio-antonio-juarez-ramirez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/37CAC7FB-92FA-441E-37F0-79978D627278.jpg"
+            }
+        ],
+        "nombre": "Julio Antonio Ju\u00e1rez Ram\u00edrez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1795D036-B6E4-AC73-55A1-8A5D0974EB9C.jpg",
+        "id": "85",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1795D036-B6E4-AC73-55A1-8A5D0974EB9C.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "df299db0be6deb1ac6ee8a93537d922e",
+                "path": "leocadio-juracan-salome-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1795D036-B6E4-AC73-55A1-8A5D0974EB9C.jpg"
+            }
+        ],
+        "nombre": "Leocadio Jurac\u00e1n Salom\u00e9",
+        "partidoActual": "Convergencia",
+        "partidoPostulante": "Convergencia"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B948E526-8721-E2E2-44E6-798E006A25CF.jpg",
+        "id": "83",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B948E526-8721-E2E2-44E6-798E006A25CF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f96a95efdc3828dd92373d9b0571fe29",
+                "path": "julio-ixcamey-velasquez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B948E526-8721-E2E2-44E6-798E006A25CF.jpg"
+            }
+        ],
+        "nombre": "Julio Ixcamey Vel\u00e1squez",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/F40569D2-5861-CF29-084B-9DE98CB20D64.jpg",
+        "id": "80",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/F40569D2-5861-CF29-084B-9DE98CB20D64.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "3524f68f3a4b006308996fd44330971f",
+                "path": "javier-alfonso-hernandez-ovalle-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/F40569D2-5861-CF29-084B-9DE98CB20D64.jpg"
+            }
+        ],
+        "nombre": "Javier Alfonso  Hern\u00e1ndez Ovalle",
+        "partidoActual": "FCN",
+        "partidoPostulante": null
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A7D2527D-FCCA-7AA3-5E67-8DC49469D23C.jpg",
+        "id": "82",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A7D2527D-FCCA-7AA3-5E67-8DC49469D23C.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4fe6369b75a2575ec105d972cbde2dac",
+                "path": "jose-alberto-hernandez-salguero-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A7D2527D-FCCA-7AA3-5E67-8DC49469D23C.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Alberto Hern\u00e1ndez Salguero",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E896F039-A73A-9701-FC81-8DE39FFC8539.jpg",
+        "id": "81",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E896F039-A73A-9701-FC81-8DE39FFC8539.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4ede3344b67e662ab4ee1405d00b9c86",
+                "path": "ana-victoria-hernandez-perez-de-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E896F039-A73A-9701-FC81-8DE39FFC8539.jpg"
+            }
+        ],
+        "nombre": "Ana Victoria Hern\u00e1ndez P\u00e9rez de Morales",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/64003A4E-948B-5EC9-EFC7-07B758BC37E7.jpg",
+        "id": "79",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/64003A4E-948B-5EC9-EFC7-07B758BC37E7.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f2f17133570d2ab2872c20e2fbf4c949",
+                "path": "sofia-jeanetth-hernandez-herrera-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/64003A4E-948B-5EC9-EFC7-07B758BC37E7.jpg"
+            }
+        ],
+        "nombre": "Sofia Jeanetth Hern\u00e1ndez Herrera",
+        "partidoActual": "AC",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/D4939C7C-9B6F-C89D-51D4-0733A7E7BCBC.jpg",
+        "id": "76",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/D4939C7C-9B6F-C89D-51D4-0733A7E7BCBC.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "fc0116ba516e6574dec048210382f753",
+                "path": "gabriel-heredia-castro-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/D4939C7C-9B6F-C89D-51D4-0733A7E7BCBC.jpg"
+            }
+        ],
+        "nombre": "Gabriel  Heredia Castro",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/4845F4DF-DD79-8F45-F866-8DBF6B5EC15E.jpg",
+        "id": "75",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/4845F4DF-DD79-8F45-F866-8DBF6B5EC15E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "dac00d4ff32a27af90b4141e485bebb8",
+                "path": "claude-harmelin-de-leon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/4845F4DF-DD79-8F45-F866-8DBF6B5EC15E.jpg"
+            }
+        ],
+        "nombre": "Claude Harmelin de Le\u00f3n",
+        "partidoActual": "FCN",
+        "partidoPostulante": "Fuerza"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/35C70937-2BDA-9444-2584-797F3DC84432.jpg",
+        "id": "78",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/35C70937-2BDA-9444-2584-797F3DC84432.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "bd7c83fe58e910b20fe75324ded5f9a8",
+                "path": "javier-alfonso-hernandez-franco-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/35C70937-2BDA-9444-2584-797F3DC84432.jpg"
+            }
+        ],
+        "nombre": "Javier Alfonso Hern\u00e1ndez Franco",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/12EBD8A9-BCC9-E18E-DC58-8DC8D4240919.jpg",
+        "id": "77",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/12EBD8A9-BCC9-E18E-DC58-8DC8D4240919.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "2621f0073a6c8b6618ea1ad8d3264309",
+                "path": "luis-enrique-hernandez-azmitia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/12EBD8A9-BCC9-E18E-DC58-8DC8D4240919.jpg"
+            }
+        ],
+        "nombre": "Luis Enrique Hern\u00e1ndez Azmitia",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "VIVA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/263F83FA-FA2E-7CB3-9E39-5C5260C1ACBC.png",
+        "id": "74",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/263F83FA-FA2E-7CB3-9E39-5C5260C1ACBC.png"
+        ],
+        "images": [
+            {
+                "checksum": "14f821304b4165ddb1f7a101eb8d6a1b",
+                "path": "mauro-guzman-merida-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/263F83FA-FA2E-7CB3-9E39-5C5260C1ACBC.png"
+            }
+        ],
+        "nombre": "Mauro  Guzm\u00e1n M\u00e9rida",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1374A0A7-5799-77B0-B7EC-07C73504EF6E.jpg",
+        "id": "72",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1374A0A7-5799-77B0-B7EC-07C73504EF6E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "76f2e9bbfdd1d190288e76a3a02a5a35",
+                "path": "eugenio-moises-gonzalez-alvarado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1374A0A7-5799-77B0-B7EC-07C73504EF6E.jpg"
+            }
+        ],
+        "nombre": "Eugenio Mois\u00e9s Gonz\u00e1lez  Alvarado",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "CREO"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/78F27DA7-AAC3-45DE-B8D2-074B76D36329.jpg",
+        "id": "70",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/78F27DA7-AAC3-45DE-B8D2-074B76D36329.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f95b0ec037814ff409c0e187dd7c8faa",
+                "path": "oliverio-garcia-rodas-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/78F27DA7-AAC3-45DE-B8D2-074B76D36329.jpg"
+            }
+        ],
+        "nombre": "Oliverio  Garc\u00eda Rodas",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1703727E-74F2-9CDD-B9DB-79965363E64F.jpg",
+        "id": "69",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1703727E-74F2-9CDD-B9DB-79965363E64F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "a9e89e1a4238a85c93b3877721d04e17",
+                "path": "jose-conrado-garcia-hidalgo-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1703727E-74F2-9CDD-B9DB-79965363E64F.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Conrado Garc\u00eda Hidalgo",
+        "partidoActual": "LIDER",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/83E7725B-E32A-B416-3585-A5CB61EC6FB0.jpg",
+        "id": "71",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/83E7725B-E32A-B416-3585-A5CB61EC6FB0.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8cd7df4a033013a51515d4624002f114",
+                "path": "juan-manuel-giordano-grajeda-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/83E7725B-E32A-B416-3585-A5CB61EC6FB0.jpg"
+            }
+        ],
+        "nombre": "Juan Manuel Giordano  Grajeda",
+        "partidoActual": "FCN",
+        "partidoPostulante": "CREO"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/432D493F-AF0D-7AE1-B0CF-074ACD1B600F.jpg",
+        "id": "67",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/432D493F-AF0D-7AE1-B0CF-074ACD1B600F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "3ce11d97f09c58861ab298ead9390820",
+                "path": "manuel-marcelino-garcia-chuta-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/432D493F-AF0D-7AE1-B0CF-074ACD1B600F.jpg"
+            }
+        ],
+        "nombre": "Manuel Marcelino  Garc\u00eda Chut\u00e1",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PU"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8BEF33BA-EF5F-29B9-7C7C-7985A357F415.jpg",
+        "id": "68",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8BEF33BA-EF5F-29B9-7C7C-7985A357F415.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "3a0655fd3e324e9c5de78bc6edc5daaa",
+                "path": "cornelio-gonzalo-garcia-garcia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8BEF33BA-EF5F-29B9-7C7C-7985A357F415.jpg"
+            }
+        ],
+        "nombre": "Cornelio Gonzalo Garc\u00eda Garc\u00eda",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/08167B23-9719-1FF5-522B-8DCC77BAE1DF.jpg",
+        "id": "73",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/08167B23-9719-1FF5-522B-8DCC77BAE1DF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "bb5b4c32ffa700bd6cc4d7b6854e89de",
+                "path": "milton-francisco-guerra-calderon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/08167B23-9719-1FF5-522B-8DCC77BAE1DF.jpg"
+            }
+        ],
+        "nombre": "Milton Francisco Guerra Calder\u00f3n",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/1E8F98D0-FE54-E174-2DDB-799E35AB0637.jpg",
+        "id": "65",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/1E8F98D0-FE54-E174-2DDB-799E35AB0637.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "1cf4e6d0d1deeee2e8aa19038c2d16eb",
+                "path": "christian-gabriel-gonzalez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/1E8F98D0-FE54-E174-2DDB-799E35AB0637.jpg"
+            }
+        ],
+        "nombre": "Christian Gabriel Gonz\u00e1lez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C4C96D2C-425D-0958-779C-07BEEB997708.jpg",
+        "id": "66",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C4C96D2C-425D-0958-779C-07BEEB997708.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "45f4abe71c11edaeee09e1256b95ffa3",
+                "path": "estuardo-ernesto-galdamez-juarez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C4C96D2C-425D-0958-779C-07BEEB997708.jpg"
+            }
+        ],
+        "nombre": "Estuardo Ernesto Gald\u00e1mez  Ju\u00e1rez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/AE589367-4F84-D0A0-D380-07396D1E9767.jpg",
+        "id": "62",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/AE589367-4F84-D0A0-D380-07396D1E9767.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "b6b02bce243d026a429ed097ddd693f9",
+                "path": "mirma-magnolia-figueroa-resen-de-coro-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/AE589367-4F84-D0A0-D380-07396D1E9767.jpg"
+            }
+        ],
+        "nombre": "Mirma Magnolia Figueroa Resen de Coro",
+        "partidoActual": "AC",
+        "partidoPostulante": "GANA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0C90EF3A-32CE-326F-1653-07C3835085B9.jpg",
+        "id": "64",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0C90EF3A-32CE-326F-1653-07C3835085B9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "21ca4957d97c6a60e40768f6a9bda9fa",
+                "path": "laura-alicia-franco-aguirre-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0C90EF3A-32CE-326F-1653-07C3835085B9.jpg"
+            }
+        ],
+        "nombre": "Laura Alicia  Franco Aguirre",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/7CF252B7-895F-5BE5-D61D-073A69EB4676.jpg",
+        "id": "61",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/7CF252B7-895F-5BE5-D61D-073A69EB4676.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "093e41a7268bd5cbd21f577ad4455971",
+                "path": "carlos-rafael-fion-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/7CF252B7-895F-5BE5-D61D-073A69EB4676.jpg"
+            }
+        ],
+        "nombre": "Carlos Rafael  Fi\u00f3n Morales",
+        "partidoActual": "CREO",
+        "partidoPostulante": "GANA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/EC2BACE6-D00E-24AA-42FE-6AB86ABC0518.jpg",
+        "id": "60",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/EC2BACE6-D00E-24AA-42FE-6AB86ABC0518.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "44f913ba308be965f3abfeb5f5b1c792",
+                "path": "oscar-roberto-fernandez-mendoza-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/EC2BACE6-D00E-24AA-42FE-6AB86ABC0518.jpg"
+            }
+        ],
+        "nombre": "Oscar Roberto Fern\u00e1ndez Mendoza",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "TODOS"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C82CCD4F-0015-A25C-23F0-072CA4447C2A.jpg",
+        "id": "59",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C82CCD4F-0015-A25C-23F0-072CA4447C2A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8fdf5a7977a08614b02dc91359b29b42",
+                "path": "cesar-emilio-fajardo-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C82CCD4F-0015-A25C-23F0-072CA4447C2A.jpg"
+            }
+        ],
+        "nombre": "C\u00e9sar Emilio Fajardo Morales",
+        "partidoActual": "IND",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/13F2F3A9-922A-4F7B-588F-07CF252D530E.jpg",
+        "id": "63",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/13F2F3A9-922A-4F7B-588F-07CF252D530E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "98bfb32b5410e8b28275ec253cf3839b",
+                "path": "jairo-joaquin-flores-divas-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/13F2F3A9-922A-4F7B-588F-07CF252D530E.jpg"
+            }
+        ],
+        "nombre": "Jairo Joaqu\u00edn Flores Divas",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/A225BBC0-F7A7-7362-6D3C-9D1CBC89560E.jpg",
+        "id": "58",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/A225BBC0-F7A7-7362-6D3C-9D1CBC89560E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "4b67782edf666b11e895c1c586d66b60",
+                "path": "walter-rolando-felix-lopez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/A225BBC0-F7A7-7362-6D3C-9D1CBC89560E.jpg"
+            }
+        ],
+        "nombre": "Walter Rolando  F\u00e9lix L\u00f3pez",
+        "partidoActual": "URNG",
+        "partidoPostulante": "URNG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/EA3D3649-2E56-C564-B1AB-7994971286BF.jpg",
+        "id": "57",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/EA3D3649-2E56-C564-B1AB-7994971286BF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "dc88182c527574767ca8068ffd231a30",
+                "path": "victor-manuel-estrada-orellana-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/EA3D3649-2E56-C564-B1AB-7994971286BF.jpg"
+            }
+        ],
+        "nombre": "V\u00edctor Manuel Estrada Orellana",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/08CBFC8C-A4DB-02D2-29E3-07BE38C13486.jpg",
+        "id": "56",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/08CBFC8C-A4DB-02D2-29E3-07BE38C13486.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "e484473a24b83198161b4e225012e3df",
+                "path": "boris-roberto-espana-caceres-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/08CBFC8C-A4DB-02D2-29E3-07BE38C13486.jpg"
+            }
+        ],
+        "nombre": "Boris Roberto  Espa\u00f1a C\u00e1ceres",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B8541856-8F61-AE11-575A-798D505E6BA2.jpg",
+        "id": "54",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B8541856-8F61-AE11-575A-798D505E6BA2.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "6b8e7b0d0426d565769a9b3595657539",
+                "path": "ruben-misael-escobar-calderon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B8541856-8F61-AE11-575A-798D505E6BA2.jpg"
+            }
+        ],
+        "nombre": "Rub\u00e9n Misael Escobar Calder\u00f3n",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/356535CD-9268-4593-CDBD-1A74D9FAE606.jpg",
+        "id": "53",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/356535CD-9268-4593-CDBD-1A74D9FAE606.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "2d996deece3fa87ff1c2efd93e03ab9d",
+                "path": "ferdy-ramon-elias-velasquez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/356535CD-9268-4593-CDBD-1A74D9FAE606.jpg"
+            }
+        ],
+        "nombre": "Ferdy Ram\u00f3n El\u00edas Vel\u00e1squez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/0F5D475C-E3A0-D03F-21A8-799B60FE4338.jpg",
+        "id": "55",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/0F5D475C-E3A0-D03F-21A8-799B60FE4338.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "9f09bcc1ec2cf75b6bf50588199844d0",
+                "path": "oscar-armando-escriba-morales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/0F5D475C-E3A0-D03F-21A8-799B60FE4338.jpg"
+            }
+        ],
+        "nombre": "Oscar Armando Escrib\u00e1 Morales",
+        "partidoActual": "AC",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8EF15C4E-9B77-7E85-2187-798BE93B21F4.jpg",
+        "id": "52",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8EF15C4E-9B77-7E85-2187-798BE93B21F4.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5d1ee901b5d171e17ea35019869e328e",
+                "path": "ovidio-joel-domingo-bamaca-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8EF15C4E-9B77-7E85-2187-798BE93B21F4.jpg"
+            }
+        ],
+        "nombre": "Ovidio Joel Domingo B\u00e1maca",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B267E85F-C463-F9E2-5190-798231BCA599.jpg",
+        "id": "51",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B267E85F-C463-F9E2-5190-798231BCA599.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f8bb7dd898ad386a4001d0866b0e25ca",
+                "path": "eduardo-ramiro-de-matta-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B267E85F-C463-F9E2-5190-798231BCA599.jpg"
+            }
+        ],
+        "nombre": "Eduardo Ramiro De Matta.",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/CA9151B3-C0EC-3689-9C1D-797E817CF8BA.jpg",
+        "id": "50",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/CA9151B3-C0EC-3689-9C1D-797E817CF8BA.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "41ba7a96181b27dc31dee8a0c0855e78",
+                "path": "mario-fermin-de-leon-ramirez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/CA9151B3-C0EC-3689-9C1D-797E817CF8BA.jpg"
+            }
+        ],
+        "nombre": "Mario Ferm\u00edn De Le\u00f3n Ram\u00edrez",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/5A453199-0531-38CD-CACB-07364E7C0C0B.jpg",
+        "id": "49",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/5A453199-0531-38CD-CACB-07364E7C0C0B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "8cf66f3cdd43b933e832d7ec6ed20e2e",
+                "path": "jose-alejandro-de-leon-maldonado-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/5A453199-0531-38CD-CACB-07364E7C0C0B.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 Alejandro  de Le\u00f3n Maldonado",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/49598331-098E-1093-9E15-7999B75332E6.jpg",
+        "id": "46",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/49598331-098E-1093-9E15-7999B75332E6.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "7e441e776268ed0b7184868f7c2d1784",
+                "path": "jose-de-la-cruz-cutzal-mijango-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/49598331-098E-1093-9E15-7999B75332E6.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 de la Cruz Cutzal Mijango",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/08C3D6AC-7ED5-F2A4-EA68-799AB199B90F.jpg",
+        "id": "45",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/08C3D6AC-7ED5-F2A4-EA68-799AB199B90F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5ab5133b3f63c4b4812c6a4ccabe7062",
+                "path": "sandra-ester-cruz-ramirez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/08C3D6AC-7ED5-F2A4-EA68-799AB199B90F.jpg"
+            }
+        ],
+        "nombre": "Sandra Ester Cruz Ram\u00edrez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/432A040E-200F-747A-5F1F-8DCE5EB30738.jpg",
+        "id": "48",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/432A040E-200F-747A-5F1F-8DCE5EB30738.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "81983caccab95bde2ed02f08b8040eba",
+                "path": "fernando-enrique-de-leon-asturias-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/432A040E-200F-747A-5F1F-8DCE5EB30738.jpg"
+            }
+        ],
+        "nombre": "Fernando Enrique De Le\u00f3n Asturias",
+        "partidoActual": "EG",
+        "partidoPostulante": "EG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/66035248-595F-1855-2E84-8DC007B3366A.jpg",
+        "id": "44",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/66035248-595F-1855-2E84-8DC007B3366A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "58c596a3afb16cf8cbfa1e770c85da8e",
+                "path": "victor-manuel-cruz-claveria-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/66035248-595F-1855-2E84-8DC007B3366A.jpg"
+            }
+        ],
+        "nombre": "V\u00edctor Manuel Cruz Claver\u00eda",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8E1698F4-4D66-874F-A4A1-D6C3F70EE580.jpg",
+        "id": "47",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8E1698F4-4D66-874F-A4A1-D6C3F70EE580.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "b0bd524ab18b5b042bf61ad941808622",
+                "path": "juan-manuel-diaz-duran-mendez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8E1698F4-4D66-874F-A4A1-D6C3F70EE580.jpg"
+            }
+        ],
+        "nombre": "Juan Manuel D\u00edaz-Dur\u00e1n M\u00e9ndez",
+        "partidoActual": "VIVA",
+        "partidoPostulante": "VIVA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/FCF8D17D-8736-91C3-9B6A-9D8C2EA7C64D.jpg",
+        "id": "43",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/FCF8D17D-8736-91C3-9B6A-9D8C2EA7C64D.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "99d6df23171fe4489f25ad4e62d69c24",
+                "path": "aristides-crespo-villegas-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/FCF8D17D-8736-91C3-9B6A-9D8C2EA7C64D.jpg"
+            }
+        ],
+        "nombre": "Ar\u00edstides Crespo Villegas",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "FRG"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/06988526-F941-9C4F-2790-9D8F44DD9FA1.jpg",
+        "id": "41",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/06988526-F941-9C4F-2790-9D8F44DD9FA1.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "c5e62ddac591fb7e6be28468e788f02f",
+                "path": "luis-alberto-contreras-colindres-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/06988526-F941-9C4F-2790-9D8F44DD9FA1.jpg"
+            }
+        ],
+        "nombre": "Luis Alberto  Contreras Colindres",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "GANA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/39F1EDF4-C0AB-5F72-5E1E-07C6B0035A14.jpg",
+        "id": "42",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/39F1EDF4-C0AB-5F72-5E1E-07C6B0035A14.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "37dd82966ba0f9c741e151c9ce859ad8",
+                "path": "oscar-rolando-corleto-rivera-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/39F1EDF4-C0AB-5F72-5E1E-07C6B0035A14.jpg"
+            }
+        ],
+        "nombre": "Oscar Rolando  Corleto Rivera",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/FE188AB1-9B5E-F60B-274A-07BF2D9DD394.jpg",
+        "id": "39",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/FE188AB1-9B5E-F60B-274A-07BF2D9DD394.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "f102568d97523b948b55595f79164a74",
+                "path": "oscar-stuardo-chinchilla-guzman-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/FE188AB1-9B5E-F60B-274A-07BF2D9DD394.jpg"
+            }
+        ],
+        "nombre": "Oscar Stuardo   Chinchilla Guzm\u00e1n",
+        "partidoActual": "CREO",
+        "partidoPostulante": "CREO"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/8D25BF2C-6CFC-59A6-3FD0-8DC705CB66F9.jpg",
+        "id": "40",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/8D25BF2C-6CFC-59A6-3FD0-8DC705CB66F9.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "b30d2337546ad9c600bbfce3645f2a58",
+                "path": "manuel-eduardo-conde-orellana-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/8D25BF2C-6CFC-59A6-3FD0-8DC705CB66F9.jpg"
+            }
+        ],
+        "nombre": "Manuel Eduardo Conde Orellana",
+        "partidoActual": "PAN",
+        "partidoPostulante": "PAN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/979F6CD0-AE4E-3990-D1F7-6AA6F63094E3.jpg",
+        "id": "38",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/979F6CD0-AE4E-3990-D1F7-6AA6F63094E3.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "d3a543e6198c0b7ff91856784d3b5c10",
+                "path": "carlos-enrique-chavarria-perez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/979F6CD0-AE4E-3990-D1F7-6AA6F63094E3.jpg"
+            }
+        ],
+        "nombre": "Carlos Enrique Chavarria P\u00e9rez",
+        "partidoActual": "CREO",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/5F6D6725-DB9F-0312-5CA9-B162DFF5DF6B.jpg",
+        "id": "36",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/5F6D6725-DB9F-0312-5CA9-B162DFF5DF6B.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "6c0e50c30da07273e4fc726ef34b5e4b",
+                "path": "juan-armando-chun-chanchavac-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/5F6D6725-DB9F-0312-5CA9-B162DFF5DF6B.jpg"
+            }
+        ],
+        "nombre": "Juan Armando  Ch\u00fan Chanchavac",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B23043F5-B5B5-73DC-8D8B-07BB94B7966E.jpg",
+        "id": "37",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B23043F5-B5B5-73DC-8D8B-07BB94B7966E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "51ec7c836b34b74a7ce56c6b54a67e7d",
+                "path": "aracely-chavarria-cabrera-de-recinos-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B23043F5-B5B5-73DC-8D8B-07BB94B7966E.jpg"
+            }
+        ],
+        "nombre": "Aracely    Chavarr\u00eda Cabrera de Recinos",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/48610EFF-4EFD-7C8A-4011-798136488381.jpg",
+        "id": "35",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/48610EFF-4EFD-7C8A-4011-798136488381.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "34199279158f7c6e9869ce3c38881763",
+                "path": "flor-de-maria-chajon-aguilar-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/48610EFF-4EFD-7C8A-4011-798136488381.jpg"
+            }
+        ],
+        "nombre": "Flor de Mar\u00eda Chaj\u00f3n Aguilar",
+        "partidoActual": "FCN",
+        "partidoPostulante": "FCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/E8402E4F-AF0B-CEB6-5611-0734C2E94817.jpg",
+        "id": "34",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/E8402E4F-AF0B-CEB6-5611-0734C2E94817.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "7367347d50a6e0e21fd4b8f18e42c8fc",
+                "path": "byron-juventino-chacon-ardon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/E8402E4F-AF0B-CEB6-5611-0734C2E94817.jpg"
+            }
+        ],
+        "nombre": "Byron Juventino  Chac\u00f3n Ard\u00f3n",
+        "partidoActual": "FCN",
+        "partidoPostulante": "GANA"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/6868D80A-5A10-3F26-26E3-07386BE4824A.jpg",
+        "id": "32",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/6868D80A-5A10-3F26-26E3-07386BE4824A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "a8ceae6648c09d6e0042e5e72ecd7cc6",
+                "path": "jose-ines-castillo-martinez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/6868D80A-5A10-3F26-26E3-07386BE4824A.jpg"
+            }
+        ],
+        "nombre": "Jos\u00e9 In\u00e9s Castillo Mart\u00ednez",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9B368D88-420B-FDB5-3F26-B18B13C45EB8.jpg",
+        "id": "33",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9B368D88-420B-FDB5-3F26-B18B13C45EB8.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "b7706618bd3323805fbb4d7f85c1a185",
+                "path": "sergio-leonel-celis-navas-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9B368D88-420B-FDB5-3F26-B18B13C45EB8.jpg"
+            }
+        ],
+        "nombre": "Sergio Leonel  Celis Navas",
+        "partidoActual": "AC",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/29E018D8-623D-B857-4AA6-8DCBF58B279F.jpg",
+        "id": "31",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/29E018D8-623D-B857-4AA6-8DCBF58B279F.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "067b0406e27d4152970bfa18ecb2a27c",
+                "path": "rudy-roberto-castaneda-reyes-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/29E018D8-623D-B857-4AA6-8DCBF58B279F.jpg"
+            }
+        ],
+        "nombre": "Rudy Roberto Casta\u00f1eda Reyes",
+        "partidoActual": "UCN",
+        "partidoPostulante": "UCN"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/055C0C3F-5588-940D-335F-B18DEE8A0108.jpg",
+        "id": "30",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/055C0C3F-5588-940D-335F-B18DEE8A0108.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "a703a4af7690466c6cada47bb60f754c",
+                "path": "rodolfo-moises-castanon-fuentes-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/055C0C3F-5588-940D-335F-B18DEE8A0108.jpg"
+            }
+        ],
+        "nombre": "Rodolfo Mois\u00e9s  Casta\u00f1\u00f3n Fuentes",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/7EADC3BA-532A-88BB-5457-79724B5335F1.jpg",
+        "id": "28",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/7EADC3BA-532A-88BB-5457-79724B5335F1.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5480afdac351aa6ec9be29a4d5018c9a",
+                "path": "mayra-alejandra-carrillo-de-leon-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/7EADC3BA-532A-88BB-5457-79724B5335F1.jpg"
+            }
+        ],
+        "nombre": "Mayra Alejandra Carrillo de Le\u00f3n",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9C3BDDAF-AED7-6B07-48F0-07BE0233BF9E.jpg",
+        "id": "29",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9C3BDDAF-AED7-6B07-48F0-07BE0233BF9E.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "2412eff678c438513d9b451bfc8075d2",
+                "path": "edin-leonel-casasola-martinez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9C3BDDAF-AED7-6B07-48F0-07BE0233BF9E.jpg"
+            }
+        ],
+        "nombre": "Edin Leonel Casasola Mart\u00ednez",
+        "partidoActual": "FCN",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/3632DDCD-D99A-0BC0-0962-799D9B725077.jpg",
+        "id": "27",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/3632DDCD-D99A-0BC0-0962-799D9B725077.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "06b16e2218bebbfd863aea04870fa9c3",
+                "path": "johnatan-abel-cardona-arreaga-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/3632DDCD-D99A-0BC0-0962-799D9B725077.jpg"
+            }
+        ],
+        "nombre": "Johnatan Abel Cardona Arreaga",
+        "partidoActual": "FCN",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/C86388D4-51F5-6988-6F58-798C92F28DDC.jpg",
+        "id": "24",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/C86388D4-51F5-6988-6F58-798C92F28DDC.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "7fc7d297d42d4bfaf1d460d8cd64071a",
+                "path": "hector-melvyn-cana-rivera-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/C86388D4-51F5-6988-6F58-798C92F28DDC.jpg"
+            }
+        ],
+        "nombre": "H\u00e9ctor Melvyn Can\u00e1 Rivera",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/9663186A-34AF-62E8-A635-074C7B2D310D.jpg",
+        "id": "23",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/9663186A-34AF-62E8-A635-074C7B2D310D.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "d7c883a68774a1fdc3902c99ad8f10d0",
+                "path": "leonardo-camey-curup-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/9663186A-34AF-62E8-A635-074C7B2D310D.jpg"
+            }
+        ],
+        "nombre": "Leonardo  Camey Curup",
+        "partidoActual": "AC",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/07898D65-2150-822D-A6E6-B1ACAA85D861.jpg",
+        "id": "25",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/07898D65-2150-822D-A6E6-B1ACAA85D861.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "21f9df79c507bb368def72a29e9ecc00",
+                "path": "elza-leonora-cu-isem-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/07898D65-2150-822D-A6E6-B1ACAA85D861.jpg"
+            }
+        ],
+        "nombre": "Elza Leonora  C\u00fa Isem",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/31A4F6DA-8797-15AE-785D-07BDCC5B44CF.jpg",
+        "id": "26",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/31A4F6DA-8797-15AE-785D-07BDCC5B44CF.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "208d9f6780abdda867fe93855bbaf26c",
+                "path": "mynor-enrique-cappa-rosales-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/31A4F6DA-8797-15AE-785D-07BDCC5B44CF.jpg"
+            }
+        ],
+        "nombre": "Mynor Enrique Cappa Rosales",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "PP"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/078F82E4-A619-3C99-4062-0735B24ED1CB.jpg",
+        "id": "18",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/078F82E4-A619-3C99-4062-0735B24ED1CB.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "04ae77d7e295e1e7dc8208baf942f48b",
+                "path": "christian-jacques-boussinot-nuila-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/078F82E4-A619-3C99-4062-0735B24ED1CB.jpg"
+            }
+        ],
+        "nombre": "Christian Jacques  Boussinot Nuila",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/818C940B-CDE9-8297-201D-07BB550B915A.jpg",
+        "id": "19",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/818C940B-CDE9-8297-201D-07BB550B915A.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "5f436fd29bf17077a015d9683eb26766",
+                "path": "jean-paul-briere-samayoa-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/818C940B-CDE9-8297-201D-07BB550B915A.jpg"
+            }
+        ],
+        "nombre": "Jean Paul  Briere Samayoa",
+        "partidoActual": "TODOS",
+        "partidoPostulante": "CREO"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/B01DBCA6-4A0D-7A2D-5536-073699071292.jpg",
+        "id": "15",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/B01DBCA6-4A0D-7A2D-5536-073699071292.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "6c299c5b57ea5ca8888f358e101955c1",
+                "path": "alicia-dolores-beltran-lopez-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/B01DBCA6-4A0D-7A2D-5536-073699071292.jpg"
+            }
+        ],
+        "nombre": "Alicia Dolores  Beltr\u00e1n L\u00f3pez",
+        "partidoActual": "Reformador",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/02F5E6B2-99C4-1952-31C8-07BB153EB958.jpg",
+        "id": "17",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/02F5E6B2-99C4-1952-31C8-07BB153EB958.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "71b31677fa71920d84c38bab38cd60e2",
+                "path": "orlando-joaquin-blanco-lapola-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/02F5E6B2-99C4-1952-31C8-07BB153EB958.jpg"
+            }
+        ],
+        "nombre": "Orlando Joaqu\u00edn  Blanco Lapola",
+        "partidoActual": "UNE",
+        "partidoPostulante": "UNE"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/70B97E62-5349-2D99-3421-07BAE2657870.jpg",
+        "id": "16",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/70B97E62-5349-2D99-3421-07BAE2657870.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "c7df838c0766dc9ea53dd6590bf5b728",
+                "path": "dalio-jose-berreondo-zavala-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/70B97E62-5349-2D99-3421-07BAE2657870.jpg"
+            }
+        ],
+        "nombre": "Dalio Jos\u00e9  Berreondo Zavala",
+        "partidoActual": "UNE",
+        "partidoPostulante": "LIDER"
+    },
+    {
+        "fotoUrl": "http://www.congreso.gob.gt/manager/images/604BBD27-3614-B39C-C794-07BA8B7B4999.jpg",
+        "id": "14",
+        "image_urls": [
+            "http://www.congreso.gob.gt/manager/images/604BBD27-3614-B39C-C794-07BA8B7B4999.jpg"
+        ],
+        "images": [
+            {
+                "checksum": "d919691b9442bee679116e86faeb413e",
+                "path": "juan-carlos-bautista-mejia-profile.jpg",
+                "url": "http://www.congreso.gob.gt/manager/images/604BBD27-3614-B39C-C794-07BA8B7B4999.jpg"
+            }
+        ],
+        "nombre": "Juan Carlos  Bautista Mej\u00eda",
+        "partidoActual": "CREO",
+        "partidoPostulante": "CREO"
+    }
+]
